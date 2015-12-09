@@ -5,5 +5,6 @@ The films was captured using the Edgertronic High Speed Camera using various fra
 
 
 
-![Clip](https://raw.githubusercontent.com/danthemellowman/ExperimentalCapture/master/students/dan_moore/images/video.png)
+![still](https://raw.githubusercontent.com/danthemellowman/ExperimentalCapture/master/students/dan_moore/images/video.png)
+![gif](https://github.com/danthemellowman/ExperimentalCapture/raw/master/students/dan_moore/images/highspeed.gif)
 [Video](https://vimeo.com/148390647)
