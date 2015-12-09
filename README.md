@@ -1,5 +1,5 @@
 # Experimental Capture
-
+foobar edit
 ### Computational & Expanded ███ography
 Prof. [Golan Levin](http://flong.com), Carnegie Mellon University, Fall 2015. <br />
 Course numbers: 16-461 (Robotics Institute), 60-461/761 (Art) <br />
