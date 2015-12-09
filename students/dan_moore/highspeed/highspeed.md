@@ -3,5 +3,7 @@ This is an exploration of light and movement.  The subject of this series is the
 
 The films was captured using the Edgertronic High Speed Camera using various framerates between 300 to 1000 frames per second.  I wanted to explore the intrinsic characteristics of our IR filterless Edgertronic. The absence of an IR filter allowed for shooting in very low lighting conditions such as candle light.  The videos were edited and color corrected in Adobe Premiere Pro.
 
+
 ![gif](https://github.com/danthemellowman/ExperimentalCapture/raw/master/students/dan_moore/images/highspeed.gif)
+
 [Video](https://vimeo.com/148390647)
